@@ -1,0 +1,6 @@
+org/cloneeverytime/domain/post/Post.java
+ org.cloneeverytime.domain.post.Post
+org/cloneeverytime/domain/post/PostRepository.java
+ org.cloneeverytime.domain.post.PostRepository
+org/cloneeverytime/EverytimeApplication.java
+ org.cloneeverytime.EverytimeApplication
